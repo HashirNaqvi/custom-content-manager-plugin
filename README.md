@@ -1,8 +1,11 @@
 **Custom Content Manager for Small Business Websites**
+
 **Plugin Purpose:**
+
 This plugin will allow small business owners to easily customize key sections of their website, such as adding widgets for promotions, changing site-wide messages (e.g., holiday greetings or special offers), and attaching additional details to specific pages or posts (e.g., highlighting features, adding testimonials, etc.).
 
 **Features Breakdown:**
+
 **Dynamic Promotion Sidebar (Widget Area):**
 
 Allow the admin to display promotional widgets like sales, new product launches, or upcoming events in various parts of the website (sidebar, footer, or header).
